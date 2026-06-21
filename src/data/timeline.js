@@ -4,13 +4,13 @@
 
 export const timeline = [
   {
-    year: "2023",
+    year: "2024",
     title: "Started Engineering",
     description:
       "Began an undergraduate degree with a focus on computer science, drawn in by how much of the physical world now runs on systems that are quietly breakable.",
   },
   {
-    year: "2024",
+    year: "2025",
     title: "First Security Projects",
     description:
       "Started building small tools to understand attack surfaces hands-on rather than only in theory — early versions of what later became QR Shield.",
