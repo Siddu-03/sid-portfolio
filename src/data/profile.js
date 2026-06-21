@@ -8,7 +8,7 @@ export const profile = {
   // Rendered at extreme scale in the hero. Kept as a single string and split
   // into display lines by the Hero component (see lib/profile.js) so there is
   // no hardcoded name text inside the component itself.
-  displayName: "SIDDESHWARPRASAD K R",
+  displayName: "SIDDESHWARPRASAD",
   title: "Student",
   location: "Bengaluru, India",
   tagline: "Exploring cybersecurity, research, technology, and design.",
