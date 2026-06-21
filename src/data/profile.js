@@ -4,7 +4,7 @@
 export const profile = {
   name: "Siddeshwarprasad K R",
   shortName: "Siddeshwarprasad",
-  initials: "SK",
+  initials: "SP",
   // Rendered at extreme scale in the hero. Kept as a single string and split
   // into display lines by the Hero component (see lib/profile.js) so there is
   // no hardcoded name text inside the component itself.
