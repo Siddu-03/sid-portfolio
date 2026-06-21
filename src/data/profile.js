@@ -8,7 +8,7 @@ export const profile = {
   // Rendered at extreme scale in the hero. Kept as a single string and split
   // into display lines by the Hero component (see lib/profile.js) so there is
   // no hardcoded name text inside the component itself.
-  displayName: "SIDDESHWARPRASAD",
+  displayName: "SIDDESHWARPRASAD K R",
   title: "Student",
   location: "Bengaluru, India",
   tagline: "Exploring cybersecurity, research, technology, and design.",
@@ -48,7 +48,7 @@ export const profile = {
     mobile: "50% 30%",
   },
 
-  email: "siddeshwarprasad.kr@gmail.com",
+  email: "siddeshwarprasadkr@gmail.com",
   resume: "/resume.pdf",
 
   // Flat list, in display order. The visual weighting/variation seen on the
@@ -75,11 +75,11 @@ export const profile = {
   // entry here — Footer and Contact both render this list, no component
   // edits needed.
   socialLinks: [
-    { id: "github", label: "GitHub", url: "https://github.com/siddeshwarprasad", icon: "github" },
+    { id: "github", label: "GitHub", url: "https://github.com/Siddu-03", icon: "github" },
     {
       id: "linkedin",
       label: "LinkedIn",
-      url: "https://linkedin.com/in/siddeshwarprasad",
+      url: "https://www.linkedin.com/in/siddeshwarprasadkr/",
       icon: "linkedin",
       handle: "Siddeshwarprasad K R",
     },
